@@ -1,0 +1,19 @@
+{
+  "name": "kmeditor",
+  "version": "1.0.0",
+  "description": "km editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laolang2016/kmeditor-js.git"
+  },
+  "author": "laolang2016",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laolang2016/kmeditor-js/issues"
+  },
+  "homepage": "https://github.com/laolang2016/kmeditor-js#readme"
+}
